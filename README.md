@@ -1,8 +1,8 @@
 # Olá 👋, Eu sou a Shayra Medeiros
 
 - 🔭 Atualmente não estou trabalhando;
-- ⚡ Estou cursando o 1º semestre de Engenharia da Computação(EAD) na UNINTER;
-- 🌱 Atualmente estou aprendendo Lógica de Programação com C++ na escola Congenial e HTML, CSS e JAVASCRIPT na B7Web;       
+- ⚡ Estou cursando o 1º semestre de Engenharia da Computação(EAD);
+- 🌱 Atualmente estou aprendendo Lógica de Programação com C++, HTML, CSS e JAVASCRIPT;       
 - 😄 Pronomes: ela/ dela.
 - Ferramentas e Tecnologias:
   <div>
