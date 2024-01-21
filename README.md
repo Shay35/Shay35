@@ -1,6 +1,6 @@
 # Olá 👋, Eu sou a Shayra Medeiros
 
-- 🔭 Atualmente não estou trabalhando;
+- 🔭 Atualmente estou apenas estudando;
 - ⚡ Estou cursando o 1º semestre de Engenharia da Computação(EAD);
 - 🌱 Atualmente estou aprendendo Lógica de Programação com C++, HTML, CSS e JAVASCRIPT;       
 - 😄 Pronomes: ela/ dela.
